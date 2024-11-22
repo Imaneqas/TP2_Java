@@ -1,9 +1,11 @@
 package pokemon;
 
-public class Pokemon {
+
+public class Tests {
 
 	public static void main(String[] args) {
-System.out.println("pokemon");
+		// TODO Auto-generated method stub
+
 	}
 
 }
